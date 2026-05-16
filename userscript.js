@@ -13,11 +13,13 @@
 // @match               https://gist.github.com/*
 // @grant               GM_xmlhttpRequest
 // @grant               GM_getResourceText
-// @resource            zh-CN https://raw.githubusercontent.com/k1995/github-i18n-plugin/master/locales/zh-CN.json
-// @resource            ja https://raw.githubusercontent.com/k1995/github-i18n-plugin/master/locales/ja.json
+// @resource            zh-CN https://raw.githubusercontent.com/KouriVar/GithubZh-CN/main/locales/zh-CN.json
+// @resource            ja https://raw.githubusercontent.com/KouriVar/GithubZh-CN/main/locales/ja.json
 // @require             https://cdnjs.cloudflare.com/ajax/libs/timeago.js/4.0.2/timeago.min.js
 // @require             https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @license MIT
+// @downloadURL         https://raw.githubusercontent.com/KouriVar/GithubZh-CN/main/userscript.js
+// @updateURL           https://raw.githubusercontent.com/KouriVar/GithubZh-CN/main/userscript.js
 // ==/UserScript==
 
 (function() {
